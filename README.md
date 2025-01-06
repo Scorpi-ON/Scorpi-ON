@@ -2,7 +2,7 @@
 
 <b>
   🖤💙❤️ Software Engineer from Donetsk People's Republic, Russia
-    
+  
    🇷🇺/🇺🇸 Speak Russian (native) and English (B2)
   
   🥉 Winner of the [Sports Programming Championship of Russia](https://habr.com/ru/articles/870470/) in the product programming discipline
