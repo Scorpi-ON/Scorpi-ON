@@ -1,11 +1,16 @@
 # Sergey Scorpion
 
-**🖤💙❤️ Software Engineer from Donetsk People's Republic, Russia
- 🇷🇺/🇺🇸 Speak Russian (native) and English (B2)  
-🥉 Winner of the [Sports Programming Championship of Russia](https://habr.com/ru/articles/870470/) in the product programming discipline
-🦾 Candidate for Master of Sports  
-🐍 Python is a main lang
-🌐 Currently work as a web (mainly backend) dev**
+**🖤💙❤️ Software Engineer from Donetsk People's Republic, Russia**
+
+**🇷🇺/🇺🇸 Speak Russian (native) and English (B2)**
+
+**🥉 Winner of the [Sports Programming Championship of Russia](https://habr.com/ru/articles/870470/) in the product programming discipline**
+
+**🦾 Candidate for Master of Sports**
+
+**🐍 Python is a main lang**
+
+**🌐 Currently work as a web (mainly backend) dev**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Scorpi-ON)
 
