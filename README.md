@@ -14,6 +14,8 @@
 
 **🌐 Currently work as a web (mainly backend) dev**
 
+### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=py,qt,fastapi,nodejs,ts,js,nestjs,express,jest,postman,prometheus,html,css,tailwind,cs,kotlin,java,cpp,c,postgres,redis,sqlite,prisma,bash,arch,docker,git,obsidian,autocad,ps)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scorpi-ON&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
