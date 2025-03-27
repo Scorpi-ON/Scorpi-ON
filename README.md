@@ -8,9 +8,11 @@
 
 **🦾 Candidate for Master of Sports**
 
-**🐍 Python is a main lang**
+**👤 Leader of the [Code 418](https://github.com/code-418-dpr) team**
 
-**🌐 Currently work as a web (mainly backend) dev**
+**🟦 TypeScript is a main lang, Python is next**
+
+**🌐 Currently work as a fullstack dev**
 
 ### Skills
 
