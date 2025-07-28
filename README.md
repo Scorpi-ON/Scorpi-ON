@@ -12,7 +12,7 @@
 
 **🟦 TypeScript is a main lang, Python is next**
 
-**🌐 Currently work as a fullstack dev**
+**🌐 Currently work as an SRE**
 
 ### Skills
 
