@@ -8,7 +8,7 @@
 
 **🦾 Candidate for Master of Sports**
 
-**👤 Leader of the [Code 418](https://github.com/code-418-dpr) team**
+**👤 Leader of the [Code 418](https://github.com/code-418-dpr) team (temporarily flagged by GitHub)**
 
 **🐍 Python is a main lang but I use anything else when needed**
 
