@@ -10,9 +10,7 @@
 
 **👤 Leader of the [Code 418](https://github.com/code-418-dpr) team**
 
-**🟦 TypeScript is a main lang, Python is next**
-
-**🌐 Currently work as an SRE**
+**🐍 Python is a main lang but I use anything else when needed**
 
 ### Skills
 
